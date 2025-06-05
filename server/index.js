@@ -5,9 +5,14 @@ import connectDB from './config/db.js'
 
 import authRoutes from './routes/auth.js'
 import passwordRoutes from './routes/passwords.js'
+import path from "path";
+import { fileURLToPath } from "url";
+import { dirname } from "path";
 
 dotenv.config()
 const app = express()
+const __filename = fileURLToPath(import.meta.url);
+const __dirname = dirname(__filename);
 
 // Connect to MongoDB
 connectDB()
