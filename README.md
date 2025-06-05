@@ -33,5 +33,13 @@ A secure and user-friendly Password Manager built with the MERN (MongoDB, Expres
 
 ## 🖼️ Project Images
 
+<table>
+  <tr>
+    <td><img src="https://github.com/Subho4156/Project_Screenshots/blob/main/Genlock/Screenshot%20(52).png?raw=true" alt="Desktop 1" width="250"/></td>
+    <td><img src="https://github.com/Subho4156/Project_Screenshots/blob/main/Genlock/Screenshot%20(51).png?raw=true" alt="Desktop 2" width="250"/></td>
+    <td><img src="https://github.com/Subho4156/Project_Screenshots/blob/main/Genlock/Screenshot%20(50).png?raw=true" alt="Desktop 3" width="250"/></td>
+  </tr>
+</table>
+
 
 
