@@ -1,0 +1,12 @@
+# Node modules
+node_modules/
+
+# Environment variables
+.env
+
+# macOS system file (safe to ignore on Windows too)
+.DS_Store
+
+# Build folders
+dist/
+build/
